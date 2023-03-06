@@ -6,7 +6,8 @@
 #### 2. you can either join an existence room or customise your own room
 ![create/join room screen](https://github.com/ClaudineBahgat/connect4-game/blob/main/screen-shots/create-join.png)
 #### 3. If you chose to customise your room you can choose the size of board & the color you're gonna play with..
-![choose size]()
+![choose size](https://github.com/ClaudineBahgat/connect4-game/blob/main/screen-shots/size.png)
+####
 ![choose color screen](https://github.com/ClaudineBahgat/connect4-game/blob/main/screen-shots/color.png)
 #### 4. when you enter the room you should wait for the other player to join
 ![board screen](https://github.com/ClaudineBahgat/connect4-game/blob/main/screen-shots/board.png)
