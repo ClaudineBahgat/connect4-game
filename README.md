@@ -3,9 +3,9 @@
 ### How to play the game :'))
 #### 1. Start the server & Enter your name
 ![name Screen](https://github.com/ClaudineBahgat/connect4-game/blob/main/screen-shots/login.png)
-#### 2. you can either join an existence room or customise your own room
+#### 2. you can either join an existent room or customise your own room
 ![create/join room screen](https://github.com/ClaudineBahgat/connect4-game/blob/main/screen-shots/create-join.png)
-#### 3. If you chose to customise your room you can choose the size of board & the color you're gonna play with..
+#### 3. If you chose to customise your room you can choose the size of board & the color you wanna play with..
 ![choose size](https://github.com/ClaudineBahgat/connect4-game/blob/main/screen-shots/size.png)
 ####
 ![choose color screen](https://github.com/ClaudineBahgat/connect4-game/blob/main/screen-shots/color.png)
